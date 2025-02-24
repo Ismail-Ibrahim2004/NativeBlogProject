@@ -1,23 +1,23 @@
 # NativeBlogProject
 
-![NativeBlogProject](https://your-image-link.com) <!-- ضع رابط صورة للمشروع إن وجد -->
+![NativeBlogProject](https://your-image-link.com) <!-- Add project image link if available -->
 
-## 📌 مقدمة
-**NativeBlogProject** هو مشروع نظام مدونة إلكترونية يسمح للمستخدمين بكتابة المقالات ونشرها وإدارتها بسهولة. المشروع يعتمد على تقنيات الويب الحديثة لتوفير تجربة سلسة للمستخدمين.
+## 📌 Introduction
+**NativeBlogProject** is a blogging system that allows users to write, publish, and manage articles easily. The project utilizes modern web technologies to provide a seamless user experience.
 
-## 🚀 الميزات
-- تسجيل الدخول والتسجيل للمستخدمين
-- إدارة المقالات (إضافة، تعديل، حذف)
-- دعم رفع الصور والمحتوى الغني
-- نظام تعليقات على المقالات
-- لوحة تحكم للمسؤولين لإدارة المحتوى
+## 🚀 Features
+- User registration and login
+- Article management (Add, Edit, Delete)
+- Image and rich content support
+- Commenting system on articles
+- Admin dashboard for content management
 
-## 🛠️ التقنيات المستخدمة
+## 🛠️ Technologies Used
 - **Backend:** PHP, MySQL
 - **Frontend:** HTML, CSS, JavaScript
 - **Frameworks/Libraries:** Bootstrap, jQuery
 
-## 📂 هيكل المجلدات
+## 📂 Folder Structure
 ```
 NativeBlogProject/
 │-- index.php
@@ -40,21 +40,21 @@ NativeBlogProject/
 │   ├── register.php
 ```
 
-## ⚡ كيفية التثبيت والتشغيل
-1. **استنساخ المشروع:**
+## ⚡ Installation & Setup
+1. **Clone the project:**
    ```bash
    git clone https://github.com/Ismail-Ibrahim2004/NativeBlogProject.git
    ```
-2. **إعداد قاعدة البيانات:**
-   - قم بإنشاء قاعدة بيانات جديدة في MySQL.
-   - استورد ملف `database.sql` الموجود داخل المشروع.
-3. **تهيئة الاتصال بقاعدة البيانات:**
-   - انتقل إلى `config/database.php`.
-   - قم بتحديث إعدادات الاتصال بقاعدة البيانات.
-4. **تشغيل المشروع:**
-   - افتح `index.php` في المتصفح أو استخدم سيرفر محلي مثل XAMPP أو WAMP.
+2. **Setup the database:**
+   - Create a new MySQL database.
+   - Import the `database.sql` file included in the project.
+3. **Configure database connection:**
+   - Navigate to `config/database.php`.
+   - Update the database connection settings.
+4. **Run the project:**
+   - Open `index.php` in a browser or use a local server like XAMPP or WAMP.
 
-## 👥 المساهمون
-- [إسماعيل إبراهيم](https://github.com/Ismail-Ibrahim2004) (مالك المشروع)
+## 👥 Contributors
+- [Ismail Ibrahim](https://github.com/Ismail-Ibrahim2004) (Project Owner)
 
 
