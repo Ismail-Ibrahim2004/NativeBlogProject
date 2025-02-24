@@ -1,8 +1,5 @@
 # NativeBlogProject
 
-![NativeBlogProject](![image](https://github.com/user-attachments/assets/c1a62917-1c7b-47f9-9a03-e034a1f66e62)
-) <!-- Add project image link if available -->
-
 ## 📌 Introduction
 **NativeBlogProject** is a blogging system that allows users to write, publish, and manage articles easily. The project utilizes modern web technologies to provide a seamless user experience.
 
